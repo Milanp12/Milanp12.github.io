@@ -263,6 +263,10 @@ nav ul li a {
   color: #F0BD6B;
 }
 
+.header-content h1 span {
+  background-color: #000000;
+}
+
 .header-content p {
   font-size: 25px;
   letter-spacing: 5px;
@@ -271,6 +275,10 @@ nav ul li a {
   text-transform: capitalize;
   color: #F0BD6B;
   font-weight: 500;
+}
+
+.header-content p span {
+  background-color: #000000;
 }
 
 .header-content .list-social li {

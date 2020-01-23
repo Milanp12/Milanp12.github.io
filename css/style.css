@@ -249,7 +249,7 @@ nav ul li a {
 #header .header-content {
   height: 100vh;
   text-align: left;
-  width: 25%;
+  width: 100%;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -261,7 +261,6 @@ nav ul li a {
   margin-bottom: 10px;
   text-transform: uppercase;
   color: #F0BD6B;
-  background-color: #000000;
 }
 
 .header-content p {
@@ -272,7 +271,6 @@ nav ul li a {
   text-transform: capitalize;
   color: #F0BD6B;
   font-weight: 500;
-  background-color: #000000;
 }
 
 .header-content .list-social li {
@@ -283,7 +281,6 @@ nav ul li a {
 .header-content .list-social li i {
   color: #F0BD6B;
   font-size: 30px;
-  background-color: #000000;
 }
 
 /*-----------------------------------------------------------------------------------*/

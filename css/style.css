@@ -269,7 +269,7 @@ nav ul li a {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color: #F0BD6B;
   font-weight: 500;
 }
 
@@ -279,8 +279,8 @@ nav ul li a {
 }
 
 .header-content .list-social li i {
-  color: #fff;
-  font-size: 15px;
+  color: #F0BD6B;
+  font-size: 30px;
 }
 
 /*-----------------------------------------------------------------------------------*/
